@@ -79,6 +79,7 @@ No affiliate links. No paid placement. No fake “best” rankings.
 - [SimpleLogin](https://simplelogin.io/) - Open-source email alias service for shielding your real email address.
 - [Thexyz](https://www.thexyz.com) - Email hosting service with custom domains, spam filtering, and privacy-focused mailbox management.
 - [Tuta](https://tuta.com/) - Encrypted email, calendar, and contacts service.
+- [TempMail10min](https://temp-mail10min.online/) - Free disposable temporary email service with 5, 10, 15, and 30-minute auto-destruct inboxes for fast OTP verification.
 
 ## Anonymous Phone Number Aliases
 
